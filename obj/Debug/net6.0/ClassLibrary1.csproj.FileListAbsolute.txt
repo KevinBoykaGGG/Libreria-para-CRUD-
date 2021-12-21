@@ -1,0 +1,14 @@
+E:\ProyectosNET\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+E:\ProyectosNET\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+E:\ProyectosNET\ClassLibrary1\bin\Debug\net6.0\ref\ClassLibrary1.dll
+E:\ProyectosNET\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+E:\ProyectosNET\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProyectosNET\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+E:\ProyectosNET\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+E:\ProyectosNET\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\ProyectosNET\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+E:\ProyectosNET\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
+E:\ProyectosNET\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+E:\ProyectosNET\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.runtimeconfig.json
+E:\ProyectosNET\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+E:\ProyectosNET\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.genruntimeconfig.cache
